@@ -1,0 +1,21 @@
+{
+  "name": "genpark-ast-diff-semantic-pr-summarizer-skill",
+  "version": "1.0.1",
+  "description": "Synthesize semantic AST delta trees across git diffs, classify breaking signature changes, and output structured PR summaries",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "ast-diff",
+    "git-pr-summarizer",
+    "code-review",
+    "semantic-analysis",
+    "breaking-changes",
+    "python-standard-library",
+    "agent-skills",
+    "developer-tools",
+    "ci-cd",
+    "code-intelligence"
+  ]
+}
